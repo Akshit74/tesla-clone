@@ -47,7 +47,7 @@ function Home() {
          rightBtnText="Learn more"
         />
         <Section 
-         title="accessories"
+         title="Accessories"
          description=""
          backgroundImg="accessories.jpg"
          leftBtnText="Shop Now"
